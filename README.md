@@ -6,3 +6,5 @@ Day2 : https://leetcode.com/problems/remove-duplicates-from-sorted-array/descrip
 Day3 : https://leetcode.com/problems/remove-element/description/
 
 Day4 : https://leetcode.com/problems/search-insert-position/description/
+
+Day5 : https://leetcode.com/problems/merge-sorted-array/description/
