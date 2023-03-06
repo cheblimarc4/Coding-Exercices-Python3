@@ -11,3 +11,4 @@ Day5 : https://leetcode.com/problems/merge-sorted-array/description/
 
 Day6 : https://leetcode.com/problems/single-number/description/
 
+Day7 : https://leetcode.com/problems/plus-one/description/
